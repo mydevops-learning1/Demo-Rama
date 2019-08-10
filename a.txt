@@ -1,3 +1,5 @@
 my name is rama
 today is tuesday
 this is first file
+upddating existing a.txt file
+
